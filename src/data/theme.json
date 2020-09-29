@@ -1,8 +1,8 @@
 {
   "site_name": "Big 'Ol Site",
   "header_title": "Darkfolio Portfolio Theme",
-  "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "first_letter_only": false,
+  "email": "flvr.pill@gmail.com",
   "social": [
     {
       "channel": "twitter",
